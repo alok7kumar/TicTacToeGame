@@ -15,19 +15,12 @@ A fun and interactive **Tic Tac Toe** game built using **HTML**, **CSS**, and **
 
 ---
 
-## 🖥️ Demo
-
-> *(Add a link here if you deploy the project on GitHub Pages or Netlify)*  
-> Example: [Live Demo](https://yourusername.github.io/tic-tac-toe/)
-
----
-
 ## 📁 Project Structure
 
 ```
 tic-tac-toe/
 │
-├── index.html        # Main HTML file
+├── tic.html          # Main HTML file
 ├── tic.css           # Stylesheet
 ├── tic.js            # Game logic
 └── README.md         # Project documentation
@@ -39,33 +32,20 @@ tic-tac-toe/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/alok7kumar/TicTacToeGame
    ```
 2. Open the folder:
    ```bash
-   cd tic-tac-toe
+   cd TicTacToeGame
    ```
-3. Open `index.html` in your browser.
+3. Open `tic.html` in your browser.
 
 ---
 
-## 🎨 Customization Ideas
+## 🧑‍💻 Screenshot
 
-- Add player names and scores
-- Add sound effects
-- Add tie detection
-- Animate win line
-- Add a dark/light mode toggle
+![Screenshot (53)](https://github.com/user-attachments/assets/c647224e-a9c9-4629-8fe6-7a2af002e8b8)
 
----
+![Screenshot (55)](https://github.com/user-attachments/assets/934803f4-38bb-48e3-a465-d6121413bd95)
 
-## 🧑‍💻 Author
-
-**Your Name**  
-[GitHub](https://github.com/yourusername)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
+### This project is created for the learning purpose
